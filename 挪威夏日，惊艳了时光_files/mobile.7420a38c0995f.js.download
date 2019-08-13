@@ -1,0 +1,8 @@
+/*!
+ * Article: 5.0.49
+ * Author: wangqingzhu
+ * Namespace: window.Article
+ * (t) 2019-7-13
+ */
+(window.webpackJsonpArticle=window.webpackJsonpArticle||[]).push([[20],{IHmG:function(n,t,i){"use strict";function c(){$(document).ready(function(){$("head").append('<script src="https://ss2.meipian.me/lib/1bKvO1tcKa.js"><\/script>')})}function e(){c()}i.r(t),i.d(t,"adCommand",function(){return c}),i.d(t,"init",function(){return e}),t.default={adCommand:c,init:e}}}]);
+//# sourceMappingURL=https://mapjs.meipian.me/source/article/app/tpl-common/js/mobile.7420a38c0995f.js.map
